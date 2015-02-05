@@ -1,0 +1,14 @@
+{
+  "name": "Promoções #cpbr8",
+  "description": "App desenvolvido para ajudar o usuário a estar apar das promoções na Campus Party de 2015",
+  "launch_path": "/run.html",
+  "icons": {
+    "60": "/imagens/icon-60.png",
+    "128": "/imagens/icon-128.png"
+  },
+  "developer": {
+    "name": "Denis William Neves",
+    "url": "http://www.agenciagreenvalley.com.br"
+  },
+  "default_locale": "Pt-br"
+}
